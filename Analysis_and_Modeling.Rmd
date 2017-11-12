@@ -1,12 +1,12 @@
 ---
-title: "long_info370_a2_response"
+title: "DSci"
 output:
-  word_document: default
+  html_document: default
   pdf_document:
     allow_html: yes
     keep_tex: yes
     latex_engine: xelatex
-  html_document: default
+  word_document: default
 ---
 
 ```{r setup, include=FALSE}
